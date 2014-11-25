@@ -10,7 +10,7 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
-            String MainThing = "The Main thing is to keep the main thing, the main thing."
+            String MainThing = "The Main thing is to keep the main thing, the main thing.";
         }
     }
 }
